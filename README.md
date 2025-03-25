@@ -95,7 +95,7 @@ if __name__ == "__main__":
 
 1. Clone este repositório:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/lucasxae/MaxMin-Select
     cd MaxMin-Select
     ```
 
